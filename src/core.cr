@@ -3,8 +3,8 @@ require "json"
 class FunnyWords
 	@words : JSON::Any
 
-    def initialize()
-    	@words = File.open("./words/words.json") { |file| JSON.parse(file) }
+    def initialize(@path_to_words : String)
+    	@words = File.open(@path_to_words) { |file| JSON.parse(file) }
 	end
 
     def get_words(n = 1)
