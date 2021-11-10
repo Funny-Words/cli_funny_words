@@ -4,13 +4,13 @@ Simple light weight programm that logs in console funny words!
 
 ## Installation
 
+Download release from Releases(GNU/Linux/Fedora-35 tested) or compile it yourself.
+
 ```bash
 git clone https://github.com/UberNihilist/funny_words.git
 ```
 
 ## Usage
-
-Download release(GNU/Linux/Fedora-35 tested) or compile it yourself
 
 ```bash
 ./main -g NUMBER
