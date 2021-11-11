@@ -31,3 +31,4 @@ TODO: Write development instructions here
 ## Contributors
 
 - [UberNihilist](https://github.com/UberNihilist) - creator and maintainer
+- [h_pr](https://github.com/hackers-pr) - contributor of words.json
