@@ -1,6 +1,6 @@
 # funny_words
 
-Simple light-weight program that writes in console funny words.
+Simple light-weight CLI program that writes in console funny words.
 
 ![sample](./assets/images/sample.png)
 
