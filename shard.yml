@@ -8,6 +8,10 @@ targets:
   funny_words:
     main: src/main.cr
 
+dependencies:
+     funny_wrds:
+       github: UberNihilist/funny_wrds
+
 crystal: 1.2.1
 
 license: MIT

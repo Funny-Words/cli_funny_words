@@ -1,4 +1,4 @@
-require "./core"
+require "funny_wrds"
 require "option_parser"
 
 OptionParser.parse do |parser|

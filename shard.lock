@@ -1,2 +1,6 @@
 version: 2.0
-shards: {}
+shards:
+  funny_wrds:
+    git: https://github.com/ubernihilist/funny_wrds.git
+    version: 0.1.0+git.commit.31cd8cd6ff25e89d043a3211cd5ea9116e6c892c
+
