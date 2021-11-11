@@ -2,9 +2,11 @@
 
 Simple light weight programm that logs in console funny words!
 
+![sample](./assets/images/sample.png)
+
 ## Installation
 
-Download release from Releases(GNU/Linux/Fedora-35 tested) or compile it yourself.
+Download release from Releases (GNU/Linux/Fedora-35 tested) or compile it yourself.
 
 ```bash
 git clone https://github.com/UberNihilist/funny_words.git
@@ -18,7 +20,9 @@ git clone https://github.com/UberNihilist/funny_words.git
 
 ## Development
 
-TODO: Write development instructions here
+* Use **double** quotes
+* Use `block` syntax instead of `do...end` if it's possible
+* Try not to add words that already exists
 
 ## Contributing
 
