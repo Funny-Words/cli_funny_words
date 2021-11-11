@@ -12,7 +12,13 @@ Download last release from Releases or compile it yourself.
 git clone https://github.com/UberNihilist/funny_words.git
 ```
 
-If you have downloaded Crystal then do
+If you have downloaded Crystal then do:
+
+```bash
+shards build 
+```
+
+or:
 
 ```bash
 crystal build ./src/main.cr --release
