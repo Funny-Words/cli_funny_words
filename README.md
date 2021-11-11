@@ -1,15 +1,21 @@
 # funny_words
 
-Simple light weight programm that logs in console funny words!
+Simple light-weight program that writes in console funny words.
 
 ![sample](./assets/images/sample.png)
 
 ## Installation
 
-Download release from Releases (GNU/Linux/Fedora-35 tested) or compile it yourself.
+Download last release from Releases or compile it yourself.
 
 ```bash
 git clone https://github.com/UberNihilist/funny_words.git
+```
+
+If you have downloaded Crystal then do
+
+```bash
+crystal build ./src/main.cr --release
 ```
 
 ## Usage
@@ -17,6 +23,8 @@ git clone https://github.com/UberNihilist/funny_words.git
 ```bash
 ./main -g NUMBER
 ```
+
+Then enter path to **words.json**
 
 ## Development
 
