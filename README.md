@@ -20,13 +20,18 @@ git clone https://github.com/UberNihilist/funny_words.git
 
 ## Development
 
-* Use **double** quotes
-* Use `block` syntax instead of `do...end` if it's possible
-* Try not to add words that already exists
+* General guides
+  * Use **double** quotes
+
+* JSON guides
+  * Try not to add words that already exists
+
+* Code guides
+  * Use `block` syntax instead of `do...end` if it's possible
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/funny_words/fork>)
+1. Fork it (<https://github.com/UberNihilist/funny_words/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -34,5 +39,5 @@ git clone https://github.com/UberNihilist/funny_words.git
 
 ## Contributors
 
-- [UberNihilist](https://github.com/UberNihilist) - creator and maintainer
-- [h_pr](https://github.com/hackers-pr) - contributor of words.json
+* [UberNihilist](https://github.com/UberNihilist) - creator and maintainer
+* [h_pr](https://github.com/hackers-pr) - contributor of words.json
