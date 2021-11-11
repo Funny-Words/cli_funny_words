@@ -9,7 +9,7 @@ Simple light-weight program that writes in console funny words.
 Download last release from Releases or compile it yourself.
 
 ```bash
-git clone https://github.com/UberNihilist/funny_words.git
+git clone https://github.com/UberNihilist/cli_funny_words.git
 ```
 
 If you have downloaded Crystal then do:
@@ -45,7 +45,7 @@ Then enter path to **words.json**
 
 ## Contributing
 
-1. Fork it (<https://github.com/UberNihilist/funny_words/fork>)
+1. Fork it (<https://github.com/UberNihilist/cli_funny_words/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
