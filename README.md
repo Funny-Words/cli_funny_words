@@ -27,7 +27,7 @@ crystal build ./src/main.cr --release
 ## Usage
 
 ```bash
-./main -g NUMBER
+./main [options]
 ```
 
 Then enter path to **words.json**
