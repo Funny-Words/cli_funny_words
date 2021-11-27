@@ -15,7 +15,7 @@ OptionParser.parse do |parser|
     parser.on("-g NUM", "--get=NUM") do |num| 
         puts funny_words.get_words(num.to_i)  
     end
-
+    
     parser.on("-c", "--concatenated-words") do |num|
         puts funny_words.get_concatenated_words
     end
