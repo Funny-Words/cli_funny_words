@@ -2,7 +2,7 @@ require "funny_wrds"
 require "option_parser"
 
 print "Enter path to json file: "
-funny_words = FW::FunnyWords.new(gets.to_s)
+funny_words = FunnyWords.new gets.to_s
 
 OptionParser.parse do |parser|
     parser.banner = "Welcome to the Funny Words"
