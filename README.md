@@ -6,7 +6,7 @@ Simple light-weight CLI program that writes in console funny words.
 
 ## Installation
 
-Download last release from Releases or compile it yourself.
+Download the latest release from Releases or compile it yourself.
 
 ```bash
 git clone https://github.com/UberNihilist/cli_funny_words.git
@@ -21,13 +21,13 @@ shards build
 or:
 
 ```bash
-crystal build ./src/main.cr --release
+crystal build path --release
 ```
 
 ## Usage
 
 ```bash
-./main [options]
+./funny_words [options]
 ```
 
 Then enter path to **words.json**
@@ -38,7 +38,7 @@ Then enter path to **words.json**
   * Use **double** quotes
 
 * JSON guides
-  * Try not to add words that already exists
+  * Try not to add words that exists
 
 * Code guides
   * Use `block` syntax instead of `do...end` if it's possible

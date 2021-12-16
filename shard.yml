@@ -12,6 +12,6 @@ dependencies:
      funny_wrds:
        github: UberNihilist/funny_wrds
 
-crystal: 1.2.1
+crystal: 1.2.2
 
 license: MIT
