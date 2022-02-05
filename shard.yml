@@ -1,8 +1,8 @@
 name: funny_words
-version: 1.0.1
+version: 1.0.2
 
 authors:
-  - UberNihilist
+  - fragilecopy
 
 targets:
   funny_words:
@@ -10,8 +10,8 @@ targets:
 
 dependencies:
      funny_wrds:
-       github: UberNihilist/funny_wrds
+       github: fragilecopy/funny_wrds
 
-crystal: 1.2.2
+crystal: 1.3.2
 
 license: MIT

@@ -1,6 +1,6 @@
 version: 2.0
 shards:
   funny_wrds:
-    git: https://github.com/ubernihilist/funny_wrds.git
-    version: 1.0.0+git.commit.d9cb75bfea410c88592f56500d3e522433aebdd7
+    git: https://github.com/fragilecopy/funny_wrds.git
+    version: 1.0.0+git.commit.9739d989b6525a8d92d1e826d705f65d6697ae9f
 
